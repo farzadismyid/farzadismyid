@@ -15,92 +15,40 @@
 
 ## 👨‍💻 About Me
 
-I am an MPhil researcher in Artificial Intelligence at the University of Salford, focused on building practical and trustworthy AI systems.
+I’m an MPhil researcher in Artificial Intelligence at the University of Salford, focused on practical AI systems and multimodal recommender pipelines.
 
-My current research explores multimodal recommender systems, Retrieval-Augmented Generation (RAG), grounded explanations, and agentic AI workflows.
-
-I enjoy building real-world AI pipelines that combine research ideas with production-ready engineering. My projects usually involve recommender systems, LLM applications, FastAPI backends, multimodal models, and practical AI deployment.
+My work combines recommender systems, Retrieval-Augmented Generation (RAG), LLM applications, and production-ready ML engineering.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Work
 
 - Multimodal fashion recommender systems
-- Evidence-constrained recommendation explanations
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI pipelines and decision loops
-- Production-ready ML systems with FastAPI
-- LLM evaluation and grounding
+- Grounded recommendation explanations
+- Agentic AI workflows and evaluation loops
+- Production ML systems with FastAPI
+- LLM + retrieval pipelines
 
 ---
 
-## 🧠 Research Interests
+## 🛠 Tech Stack & Tools
 
-- Recommender Systems
-- Generative AI & LLMs
-- Multimodal AI
-- Human-Centered AI
-- Explainable AI (XAI)
-- Retrieval-Augmented Generation
-- AI for Personalization
+| **AI / ML** | **Backend & Tools** | **Research Areas** |
+|-------------|---------------------|--------------------|
+| `PyTorch` • `Transformers` • `CLIP` • `Florence-2` | `FastAPI` • `Docker` • `Linux` • `Git` | `RAG` • `LLMs` • `Recommender Systems` |
+| `Scikit-learn` • `Pandas` • `NumPy` | `VSCode` • `Ollama` • `DuckDB` | `Multimodal AI` • `Grounded AI` |
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-`Python` · `FastAPI` · `PyTorch` · `Transformers` · `Scikit-learn`
-
-### AI & ML
-`LLMs` · `CLIP` · `Florence-2` · `RAG` · `Vector Databases`
-
-### Data & Tools
-`Pandas` · `NumPy` · `DuckDB` · `Git` · `Linux` · `VSCode`
-
-### Deployment
-`Docker` · `REST APIs` · `Ollama`
-
----
-
-## 🔬 Featured Projects
-
-### 🧥 Multimodal Fashion Recommender
-An AI recommendation system using image understanding, retrieval pipelines, and grounded recommendation explanations.
-
-### 🤖 Agentic AI Outfit Assistant
-A small agentic AI system where multiple agents decide how to process user fashion requests using image captioning, retrieval, and evaluation loops.
+## 📌 Featured Project
 
 ### 📈 [WPP Recommendation Platform](https://github.com/farzadismyid/wpp_recsys_platform)
-A production-ready recommendation system with hybrid ranking, cold-start handling, diversity-aware recommendations, configurable scoring pipelines, and scalable FastAPI serving for real-world deployment.
-
----
-
-## 📚 Current Academic Work
-
-- MPhil in Artificial Intelligence
-- Research on grounded recommendation explanations
-- Exploring evidence-aware multimodal recommendation systems
-- Preparing research publications and workshop submissions
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farzadismyid&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadismyid&layout=compact&theme=tokyonight" />
-</p>
+Production-ready recommendation platform with hybrid ranking, cold-start handling, diversity-aware recommendations, and scalable FastAPI serving.
 
 ---
 
 ## 🌍 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/farzadjamali/
-- Email: ali292jamali@gmail.com
 - GitHub: https://github.com/farzadismyid
-
----
-
-<p align="center">
-  <em>Building practical AI systems that are intelligent, grounded, and useful.</em>
-</p>
+- Email: ali292jamali@gmail.com
