@@ -47,6 +47,10 @@ Production-ready recommendation platform with hybrid ranking, cold-start handlin
 
 ---
 
+## 📌 Upcoming Project
+
+---
+
 ## 🌍 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/farzadjamali/
