@@ -1,55 +1,58 @@
 # Hi there 👋, I'm Farzad
 
-<p align="center">
-  <em>I love training models and diving deep in artificial intelligence</em>
-</p>
+<em>I enjoy building intelligent systems and exploring practical AI applications.</em>
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Researcher-blue?style=for-the-badge" />
+<div>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-Grounded%20Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multimodal-AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Grounded%20AI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Evidence%20Based-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge" />
 </div>
+
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Machine learning engineer graduated from the University of Salford, focused on practical AI systems.
+I’m a Machine Learning Engineer and MPhil researcher at the University of Salford, focused on practical AI systems and intelligent recommendation pipelines.
 
-My work combines Multimodolity, Evidence base systems (RAG), LLM and VLM applications, and Explanable AI systems.
+My work combines multimodal AI, Retrieval-Augmented Generation (RAG), LLM and VLM applications, and explainable AI systems.
 
 ---
 
-## 🔭 I’m working on
+## 🔭 Currently Working On
 
 - Multimodal fashion recommender systems
-- Grounded explanations (RAG)
+- Grounded recommendation explanations with RAG
 - Explainable AI workflows and evaluation loops
-- Agentic AI systems and evaluation of decisions
+- Agentic AI systems and decision evaluation
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 | **AI / ML** | **Backend & Tools** | **Research Areas** |
 |-------------|---------------------|--------------------|
-| `PyTorch` • `Transformers` • `CLIP` • `Florence-2` | `FastAPI` • `Docker` • `Linux` • `Git` | `RAG` • `LLMs` • `RecSys` |
-| `Scikit-learn` • `Pandas` • `NumPy` | `VSCode` • `Ollama` • `DuckDB` | `Multimodal AI` • `Grounded AI` • `X AI` |
+| `PyTorch` • `Transformers` • `CLIP` • `Florence-2` | `FastAPI` • `Docker` • `Linux` • `Git` | `RAG` • `LLMs` • `VLMs` • `RecSys` |
+| `Scikit-learn` • `Pandas` • `NumPy` | `VSCode` • `Ollama` • `DuckDB` | `Multimodal AI` • `Grounded AI` • `XAI` |
 
 ---
 
 ## 📌 Featured Project
 
 ### 📈 [WPP Recommendation Platform](https://github.com/farzadismyid/wpp_recsys_platform)
+
 Production-ready recommendation platform with hybrid ranking, cold-start handling, diversity-aware recommendations, and scalable FastAPI serving.
 
+---
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/farzadjamali/
 - GitHub: https://github.com/farzadismyid
 - Email: ali292jamali@gmail.com
 
+---
 
-## ⚡ Fun fact
+## ⚡ Fun Fact
+
 I train recommendation systems but still can’t decide what to watch on Netflix.
