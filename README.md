@@ -1,33 +1,31 @@
-# Hi 👋, I'm Farzad
+# Hi there 👋, I'm Farzad
 
 <p align="center">
-  <em>MPhil Researcher in Artificial Intelligence · Multimodal Recommender Systems · RAG · Agentic AI</em>
+  <em>I love training models and diving deep in artificial intelligence</em>
 </p>
 
-<p align="center">
+<div display="flex">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Researcher-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multimodal-AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Grounded%20AI-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge" />
-</p>
-
+</div>
 ---
 
 ## 👨‍💻 About Me
 
-I’m an MPhil researcher in Artificial Intelligence at the University of Salford, focused on practical AI systems and multimodal recommender pipelines.
+I’m a Machine learning engineer graduated from the University of Salford, focused on practical AI systems.
 
-My work combines recommender systems, Retrieval-Augmented Generation (RAG), LLM applications, and production-ready ML engineering.
+My work combines Multimodolity, Evidence base systems (RAG), LLM and VLM applications, and Explanable AI systems.
 
 ---
 
-## 🚀 Current Work
+## 🔭 I’m working on
 
 - Multimodal fashion recommender systems
-- Grounded recommendation explanations
-- Agentic AI workflows and evaluation loops
-- Production ML systems with FastAPI
-- LLM + retrieval pipelines
+- Grounded explanations (RAG)
+- Explainable AI workflows and evaluation loops
+- Agentic AI systems and evaluation of decisions
 
 ---
 
@@ -35,8 +33,8 @@ My work combines recommender systems, Retrieval-Augmented Generation (RAG), LLM 
 
 | **AI / ML** | **Backend & Tools** | **Research Areas** |
 |-------------|---------------------|--------------------|
-| `PyTorch` • `Transformers` • `CLIP` • `Florence-2` | `FastAPI` • `Docker` • `Linux` • `Git` | `RAG` • `LLMs` • `Recommender Systems` |
-| `Scikit-learn` • `Pandas` • `NumPy` | `VSCode` • `Ollama` • `DuckDB` | `Multimodal AI` • `Grounded AI` |
+| `PyTorch` • `Transformers` • `CLIP` • `Florence-2` | `FastAPI` • `Docker` • `Linux` • `Git` | `RAG` • `LLMs` • `RecSys` |
+| `Scikit-learn` • `Pandas` • `NumPy` | `VSCode` • `Ollama` • `DuckDB` | `Multimodal AI` • `Grounded AI` • `X AI` |
 
 ---
 
@@ -45,14 +43,13 @@ My work combines recommender systems, Retrieval-Augmented Generation (RAG), LLM 
 ### 📈 [WPP Recommendation Platform](https://github.com/farzadismyid/wpp_recsys_platform)
 Production-ready recommendation platform with hybrid ranking, cold-start handling, diversity-aware recommendations, and scalable FastAPI serving.
 
----
 
-## 📌 Upcoming Project
-
----
-
-## 🌍 Connect With Me
+## 📫 How to reach me
 
 - LinkedIn: https://www.linkedin.com/in/farzadjamali/
 - GitHub: https://github.com/farzadismyid
 - Email: ali292jamali@gmail.com
+
+
+## ⚡ Fun fact
+I train recommendation systems but still can’t decide what to watch on Netflix.
