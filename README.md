@@ -3,7 +3,7 @@
 <em>I enjoy building intelligent systems and exploring practical AI applications.</em>
 
 <div>
-  <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-Grounded%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-Intelligent%20Systems-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multimodal-AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Evidence%20Based-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge" />
