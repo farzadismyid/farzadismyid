@@ -3,13 +3,13 @@
 <em>I enjoy building intelligent systems and exploring practical AI applications.</em>
 
 <div>
-  <img src="https://img.shields.io/badge/Multimodal%20AI-Reasoning%20%26%20VLMs?style=for-the-badge&labelColor=0f172a&color=2563eb" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-Reasoning%20%26%20VLMs-blue?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Grounded%20Generation-GraphRAG%20%26%20Retrieval?style=for-the-badge&labelColor=052e16&color=16a34a" />
+  <img src="https://img.shields.io/badge/Grounded%20Generation-GraphRAG%20%26%20Retrieval-green?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Explainable%20AI-Mechanistic%20Interpretability?style=for-the-badge&labelColor=3b0764&color=a855f7" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-Mechanistic%20Interpretability-purple?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Agentic%20Systems-Tool%20Use%20%26%20Planning?style=for-the-badge&labelColor=431407&color=f97316" />
+  <img src="https://img.shields.io/badge/Agentic%20Systems-Tool%20Use%20%26%20Planning-orange?style=for-the-badge" />
 </div>
 
 ---
