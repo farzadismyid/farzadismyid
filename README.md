@@ -5,7 +5,7 @@
 <div>
   <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-Intelligent%20Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multimodal-AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Evidence%20Based-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Evidence%20Based%20AI-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic-AI-orange?style=for-the-badge" />
 </div>
 
