@@ -15,14 +15,14 @@
 
   <img src="https://img.shields.io/badge/AI Evaluation-E67E22?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Intelligent Workflows-D9485F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI Systems-D9485F?style=for-the-badge" />
 </p>
 
 ## 👨‍💻 About Me
 
-I’m a Machine Learning Engineer and researcher at the University of Salford, focused on building practical AI systems and improving the efficiency of intelligent workflows in real-world environments.
+I’m a Machine Learning Engineer and researcher at the University of Salford, focused on building practical AI systems and scalable intelligent workflows for real-world use.
 
-My interests span both industry and research, including Retrieval-Augmented Generation (RAG), grounded and faithful AI explanations, agentic systems, and scalable AI pipeline design.
+My work sits between industry and research, combining AI engineering, intelligent automation, and modern generative AI systems.
 
 ## 🛠 Main Skills
 
@@ -32,23 +32,23 @@ My interests span both industry and research, including Retrieval-Augmented Gene
   
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
@@ -60,16 +60,6 @@ My interests span both industry and research, including Retrieval-Augmented Gene
 - Grounded explanation generation with RAG
 - Evaluation pipelines for explainable AI
 - Agentic AI workflows with tool use and reasoning
-- Scalable ML backends using FastAPI and vector retrieval
-
-## 🧠 Research Interests
-
-- Multimodal Recommendation Systems
-- Retrieval-Augmented Generation (RAG)
-- Explainable AI (XAI)
-- Vision-Language Models
-- Agentic AI Systems
-- Grounded Reasoning
 
 ## 📌 Featured Project
 
@@ -85,4 +75,4 @@ Production-ready recommendation platform featuring hybrid ranking, cold-start ha
 
 ### ⚡ Fun Fact
 
-I train recommendation systems but still can’t decide what to watch on Netflix.
+I work on AI systems, but still Google simple regex syntax.
