@@ -1,18 +1,13 @@
 <!-- ========================= TYPING INTRO ========================= -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3500&pause=800&color=4F8CC9&width=700&lines=Farzad+Jamali;Machine+Learning+Engineer;MPhil+Researcher+in+AI;Multimodal+AI+%7C+RAG+%7C+RecSys" alt="Typing SVG" />
-</a>
-
----
-
 # Hi there 👋, I'm Farzad
 
-<em>I enjoy building practical AI systems and exploring intelligent multimodal applications.</em>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=800&color=FFFFFF&repeat=false&width=700&lines=Machine+Learning+Engineer+and+Researcher+in+AI" alt="Typing SVG" />
+</a>
 
 <!-- ========================= AI BADGES ========================= -->
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/LLMs-Reasoning%20%26%20Generation-0a66c2?style=for-the-badge" />
   
   <img src="https://img.shields.io/badge/VLMs-Multimodal%20AI-1f6feb?style=for-the-badge" />
@@ -28,9 +23,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Machine Learning Engineer and MPhil researcher at the University of Salford, focused on building practical AI systems, multimodal recommendation pipelines, and explainable intelligent applications.
+I’m a Machine Learning Engineer and researcher at the University of Salford, focused on building practical AI systems and improving the efficiency of intelligent workflows in real-world environments.
 
-My work combines LLMs, VLMs, Retrieval-Augmented Generation (RAG), and recommender systems with a strong focus on grounded reasoning and real-world deployment.
+My interests span both industry and research, including Retrieval-Augmented Generation (RAG), grounded and faithful AI explanations, agentic systems, and scalable AI pipeline design.
 
 ---
 
