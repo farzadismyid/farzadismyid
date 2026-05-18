@@ -1,7 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:8E44AD&height=140&section=header"/>
-
 <!-- ========================= TYPING INTRO ========================= -->
 
 <a href="https://git.io/typing-svg">
@@ -136,29 +132,29 @@ My work combines LLMs, VLMs, Retrieval-Augmented Generation (RAG), and recommend
 
 Production-ready recommendation platform featuring hybrid ranking, cold-start handling, diversity-aware retrieval, configurable business rules, and scalable FastAPI deployment.
 
----
-
-## 📊 GitHub Stats
-
-![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadismyid&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadismyid&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/farzadjamali/
-- GitHub: https://github.com/farzadismyid
-- Email: ali292jamali@gmail.com
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad%20Jamali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farzadjamali/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid)
+
+[![Email](https://img.shields.io/badge/Email-ali292jamali%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali292jamali@gmail.com)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad%20Jamali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farzadjamali/) 
+[![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) 
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali292jamali@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
 I train recommendation systems but still can’t decide what to watch on Netflix.
-
-<!-- ========================= FOOTER ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:8E44AD&height=140&section=footer"/>
-```
